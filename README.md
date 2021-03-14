@@ -70,5 +70,6 @@ You can find implementations of above mentioned tasks in node application
   - checkout the root of project
   - hit npm start
   - open postman collection node_sql_crud.postman_collection.json
+  - demo screen shots of working for each can be seen under /working_screenshots directory 
   - NOTE if you have different pre-configured mysql settings on your system 
     then do update /config/db.config.js

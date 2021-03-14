@@ -3,8 +3,8 @@
 You are expected to implement a REST API for CRUD operations using Node/Express & (MongoDB or SQL). You will also have to deploy the API on an AWS EC2 machine (OPTIONAL, if not possible then just do deployment locally or you can deploy APIs on herouku, atlas etc..)
 
 ```bash
-#I have used Node and Express with SQL to complete this task.And deployed them locally
-#test the implemetation
+#I have used Node and Express with SQL to complete this task.
+#And deployed them locally test the implemetation.
 ```
 
 

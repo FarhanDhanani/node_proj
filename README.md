@@ -72,6 +72,7 @@ You can find implementations of above mentioned tasks in node application
   - open postman collection node_sql_crud.postman_collection.json
   - demo screen shots of working for each can be seen under /working_screenshots directory
   - to order get calls on product related API's use order as query parameter with following
-    set of values (name, price, quantity, created_at)
+    set of values (name, price, quantity, created_at) check screen shots to have more vivid
+    understanding.
   - NOTE if you have different pre-configured mysql settings on your system 
     then do update /config/db.config.js

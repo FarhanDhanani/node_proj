@@ -4,7 +4,7 @@ You are expected to implement a REST API for CRUD operations using Node/Express 
 
 ```bash
 #I have used Node and Express with SQL to complete this task.
-#And deployed them locally test the implemetation.
+#And deployed them locally to test the final implemetation.
 ```
 
 

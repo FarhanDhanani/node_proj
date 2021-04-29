@@ -34,7 +34,7 @@ Moreover your system must has a copy of [MySQL](https://dev.mysql.com/downloads/
 ![DB MODEL](https://drive.google.com/uc?export=view&id=1NE6JzT3owqZfjXMXVX34NX5TxLinpISS)
 
 
-### TABELS
+### TABLES
 ```sql
 CREATE TABLE IF NOT EXISTS Category (id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
                                      name VARCHAR(100), created_at DATETIME);
